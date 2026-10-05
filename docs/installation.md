@@ -1,5 +1,7 @@
 # 安装
 
+[English](installation.en.md)
+
 ## WorkBuddy
 
 1. 打开[Release](https://github.com/ouyang-2019/beauty-live-handcards/releases/tag/v0.1.0)，下载 `beauty-live-handcards-workbuddy-0.1.0.zip`。

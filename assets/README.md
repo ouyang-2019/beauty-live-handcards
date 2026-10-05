@@ -4,7 +4,7 @@
 - [合作横幅](collaboration.png)：同系列视觉，呈现“香莱可人 × 漾皑秀”“产品交流 · 直播手卡 · 内容合作”“联系欧阳，一起把产品讲得更好”。
 - [微信二维码](contact/wechat.jpg)、[微信公众号二维码](contact/wechat-official-account.jpg)：作者提供的原图，未重绘或修改二维码。
 
-两张横幅通过Codex原生image_gen工具生成。画面中的卡片、玻璃与乳霜为装饰性视觉元素；真实产品图片在[案例目录](../examples/README.md)。
+中英文横幅通过Codex原生image_gen工具生成。画面中的卡片、玻璃与乳霜为装饰性视觉元素；真实产品图片在[案例目录](../examples/README.md)。
 
 ## 生成提示词
 
@@ -17,3 +17,10 @@ Create an original, wide 3:1 GitHub README hero for “美妆直播手卡 / Beau
 Create a matching wide 3:1 author and product collaboration banner. Warm ivory and champagne paper texture, restrained rose glass highlights, abstract handcard stack on the right. Large Chinese text: “LET’S CONNECT”, “香莱可人 × 漾皑秀”, “产品交流 · 直播手卡 · 内容合作”, “联系欧阳，一起把产品讲得更好”. No invented discounts, performance promises, contacts or QR codes.
 
 [许可范围](../NOTICE.md)
+
+## English artwork
+
+- [English hero](hero.en.png): localized from the original cover. Text: “Beauty Live Handcards”, “Make your product story clear and beautiful.” and “Livestream cards · Product visuals · Bundle guides”.
+- [English collaboration banner](collaboration.en.png): localized from the original banner. Text: “LET’S CONNECT”, “Products & collaboration”, “Beauty products · Livestream cards · AI content” and “Talk to Ouyang. Tell your product story better.” Original product brand names are preserved.
+
+Built-in image_gen localization prompts: preserve the original ivory/rose/champagne palette, paper/glass/cream arrangement, wide 3:1 composition and card-star symbol; replace only the specified copy with the exact English text above. Keep large readable typography and safe margins. Add no product claims, contacts, QR codes, logos or watermarks.
