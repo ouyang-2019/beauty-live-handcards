@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+dist/
+build/
+production/
+qa-review*.json
+*.log
+.DS_Store
+Thumbs.db

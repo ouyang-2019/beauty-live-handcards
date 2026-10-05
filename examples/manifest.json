@@ -1,0 +1,343 @@
+{
+  "sets": [
+    {
+      "id": "01-serum",
+      "product": "香莱可人·重组胶原蛋白次抛精华液",
+      "summary": "甘油与可溶性胶原的水润护理，次抛使用场景，配方原料与对应检测展示。",
+      "image_count": 9,
+      "images": [
+        {
+          "file": "01.png",
+          "title": "00_单页直播手卡",
+          "sha256": "d7ebb0dd08db6bd9f072a093f4f910ab04ae64461ed3cda118d37fa08e7f3332",
+          "bytes": 2414665,
+          "width": 1486,
+          "height": 1059
+        },
+        {
+          "file": "02.png",
+          "title": "01_产品主视觉",
+          "sha256": "007c35afe6c0d18dff1db9125a343eea51bf62a0be710b11f25a6a97fdfc0962",
+          "bytes": 2556055,
+          "width": 1486,
+          "height": 1058
+        },
+        {
+          "file": "03.png",
+          "title": "02_体外保湿评价",
+          "sha256": "2185f69a13609a87a58ae42747d37545eceb8ac6c05276f948af01aab21568dc",
+          "bytes": 2083694,
+          "width": 1488,
+          "height": 1057
+        },
+        {
+          "file": "04.png",
+          "title": "03_功效3D_蓄水与柔润",
+          "sha256": "ef13a490f25c8267bd4736cbf399ab10c2df7841c983fa063b1bd32bbbf1c2f5",
+          "bytes": 2066352,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "05.png",
+          "title": "04_明星原料_水库与薄纱",
+          "sha256": "9e1f6e86b54cef0dfe08232203374cdd9c58074b1369ba608d1fa0dec8364a79",
+          "bytes": 2459583,
+          "width": 1488,
+          "height": 1057
+        },
+        {
+          "file": "06.png",
+          "title": "05_功效讲解_抗皱紧致依据",
+          "sha256": "e9cd878992edcf72ae154fd4d1c8932695c593317b970c2d70fff7e5641f95d4",
+          "bytes": 2069101,
+          "width": 1488,
+          "height": 1057
+        },
+        {
+          "file": "07.png",
+          "title": "06_用法与达人口播",
+          "sha256": "1f6cdfaca009202b844874d2de001e8548cb6a530305f6af7146556dd8e7915e",
+          "bytes": 2169144,
+          "width": 1487,
+          "height": 1058
+        },
+        {
+          "file": "08.png",
+          "title": "07_原报告_保湿",
+          "sha256": "effe395b67c574d4b01f69e34f6498c53d972da5b94e9986acec4c43b267fac5",
+          "bytes": 448531,
+          "width": 2400,
+          "height": 1700
+        },
+        {
+          "file": "09.png",
+          "title": "08_原报告_抗皱紧致",
+          "sha256": "1062dcc9fc2f77946a1372b00a793554c9ff82f3ef5632ee05cec54543bd3cd1",
+          "bytes": 447596,
+          "width": 2400,
+          "height": 1700
+        }
+      ]
+    },
+    {
+      "id": "02-cream",
+      "product": "香莱可人·青春紧致淡纹精华霜",
+      "summary": "乳木果脂、羟丙基四氢吡喃三醇与神经酰胺NP的原料分工，柔润肤感与日常护理收尾。",
+      "image_count": 7,
+      "images": [
+        {
+          "file": "01.png",
+          "title": "00_单页直播手卡",
+          "sha256": "dd8180dd968c68e78574f74edb9bceb2ed3f831b76801427fc72f323eba342e3",
+          "bytes": 2500025,
+          "width": 1485,
+          "height": 1059
+        },
+        {
+          "file": "02.png",
+          "title": "01_产品主视觉",
+          "sha256": "e36e78566f19cc95c6d42dee91a7297219c5e24e3d76c4513bc3880244cb1c2a",
+          "bytes": 2251499,
+          "width": 1487,
+          "height": 1058
+        },
+        {
+          "file": "03.png",
+          "title": "02_肌肤状态与护理目标",
+          "sha256": "eb67ba1d95b1c999f6e7155ac808c8eed0ae15c9b9e98222c0e0cb36083d93f2",
+          "bytes": 2198747,
+          "width": 1488,
+          "height": 1057
+        },
+        {
+          "file": "04.png",
+          "title": "03_功效3D_柔润包裹",
+          "sha256": "5960b8a6f0e75eed0496a8b01c49df9c2aa30577df4a953326ed804dbee3afb1",
+          "bytes": 2112090,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "05.png",
+          "title": "04_明星原料_柔润与弹润",
+          "sha256": "89640eddecf4e869ad814df154e0238d79ac3e0f7dd22805805736793e86ad9e",
+          "bytes": 2330590,
+          "width": 1486,
+          "height": 1059
+        },
+        {
+          "file": "06.png",
+          "title": "05_功效讲解_双主角分工",
+          "sha256": "c0ece36c93b2c49e86fe06b8ff4a753481430329c24a70e4bcf10532d9baf11a",
+          "bytes": 2182231,
+          "width": 1487,
+          "height": 1058
+        },
+        {
+          "file": "07.png",
+          "title": "06_用法与达人口播",
+          "sha256": "5a5ea802131fdcd422fe1d6e9892f56e90ee2ee27f09c70cd37d8cb7c14377aa",
+          "bytes": 2236432,
+          "width": 1486,
+          "height": 1058
+        }
+      ]
+    },
+    {
+      "id": "03-hand-care-gift-set",
+      "product": "漾皑秀·璀璨奢养玉肌护手礼盒",
+      "summary": "四支一盒的护手搭配，把香型、原料和洗手后的护理场景连起来。",
+      "image_count": 7,
+      "images": [
+        {
+          "file": "01.png",
+          "title": "01_综合产品手卡",
+          "sha256": "c5fd9e211d69e78ceed534d0415a3519a4af90c7f143165a00bd9fb043d9b1ce",
+          "bytes": 2024168,
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "file": "02.png",
+          "title": "02_使用效果与评价",
+          "sha256": "bb262253d160b72268c30c224e778c0cfffb89a957e2c3f2d98a0e93981095a2",
+          "bytes": 2011230,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "03.png",
+          "title": "03_产品功效3D演示",
+          "sha256": "c54e7dbb4fed6f197274df9a727540389412ac4b5dd78d2b0210985bc8d90781",
+          "bytes": 2190464,
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "file": "04.png",
+          "title": "03B_功效皮肤层演示",
+          "sha256": "9bd258c8fd42d31f649b056af84dbce86af6cd79198e18f5d3226adf6852dfaa",
+          "bytes": 2161553,
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "file": "05.png",
+          "title": "04_功效介绍",
+          "sha256": "118477aa655062a8c94e3fe26055621c0295890047c9d1f2f8fb9d9f7c1777fb",
+          "bytes": 2074465,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "06.png",
+          "title": "05_原料介绍",
+          "sha256": "0438cbf2d5fd4449dc274b22d38582e83e006ee64e22975fba6b07b4f8785561",
+          "bytes": 2067989,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "07.png",
+          "title": "07_用法与达人讲解",
+          "sha256": "6024d83e66835438c9c19222054fcff439a58cfc9ac0c9d3a9c5a2b06f8a1d55",
+          "bytes": 2094038,
+          "width": 1491,
+          "height": 1055
+        }
+      ]
+    },
+    {
+      "id": "04-blue-copper-mask",
+      "product": "漾皑秀·蓝铜肽雪肌舒缓水光面膜",
+      "summary": "冰蓝水光视觉，水润贴敷、舒缓与抗皱紧致护理主题，原料矩阵和对应报告展示。",
+      "image_count": 7,
+      "images": [
+        {
+          "file": "01.png",
+          "title": "01_综合带货手卡",
+          "sha256": "98f649c738a90fe347b018b704ed16f00e6541c6f2c235768b98228381834c55",
+          "bytes": 1982304,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "02.png",
+          "title": "02_使用效果与评价",
+          "sha256": "00eb40581d19b600eb5a04caee612993b38582d16aaa9057578883702cd22341",
+          "bytes": 1902504,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "03.png",
+          "title": "03_产品功效3D演示",
+          "sha256": "44f03990a0c6d71280ef84b294679d439b5bc9989ec71c397ef0146ac78e9d63",
+          "bytes": 2061394,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "04.png",
+          "title": "04_功效介绍",
+          "sha256": "272db001f06fe9c3b5a2fee73df2380610b30aab9780bd4d11fa8420949fedff",
+          "bytes": 2148840,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "05.png",
+          "title": "05_原料矩阵",
+          "sha256": "885d834bc443f74337d10eaa5f53ffb203d4afbd9951e3442623b424ddce0d1f",
+          "bytes": 2375350,
+          "width": 1492,
+          "height": 1054
+        },
+        {
+          "file": "06.png",
+          "title": "06_第三方体外功效报告",
+          "sha256": "dfc2d1ee03a5ba3185118ebc9c7f96d16bb8464427ba0d78fc05459fba3e9a90",
+          "bytes": 520552,
+          "width": 2400,
+          "height": 1700
+        },
+        {
+          "file": "07.png",
+          "title": "07_用法与达人讲解",
+          "sha256": "e1677891b80b8187238d4ce5283557d057ea777ffd10f4df78a4f5b34e4c15b5",
+          "bytes": 2025824,
+          "width": 1491,
+          "height": 1055
+        }
+      ]
+    },
+    {
+      "id": "05-black-diamond-mask",
+      "product": "漾皑秀·黑钻赋活光感驻颜面膜",
+      "summary": "黑金产品视觉，润泽贴敷体验与原料、用法的完整讲解。",
+      "image_count": 7,
+      "images": [
+        {
+          "file": "01.png",
+          "title": "01_综合产品手卡",
+          "sha256": "81a5b5086e03c8cfb6dfaee0a551c74eb08214ce7799fad0bbdb1a5e1c9067a2",
+          "bytes": 1988154,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "02.png",
+          "title": "02_使用效果与评价",
+          "sha256": "ec0fad353992cc049beb06a2fe29a3cf75f53b239e50e4d7a0b2c9e31c92de58",
+          "bytes": 2012146,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "03.png",
+          "title": "03_产品功效3D演示",
+          "sha256": "70c2ebba1b5f6de34def5f0a8cb35698d66f939710213da7a107a0d3a9f61ec6",
+          "bytes": 1906215,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "04.png",
+          "title": "03B_功效皮肤层演示",
+          "sha256": "7a1f347426818a7c48e309ebb3e13782ed3b914c064cf30007cf7d72e694964d",
+          "bytes": 2427621,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "file": "05.png",
+          "title": "04_功效介绍",
+          "sha256": "f13212fbba9dfd3fed7bc73fb282c64a807810fa1bfefdc18baa4f69b1ae5e21",
+          "bytes": 2246614,
+          "width": 1491,
+          "height": 1055
+        },
+        {
+          "file": "06.png",
+          "title": "05_原料介绍",
+          "sha256": "685533dd650fdd249d186f1bf05b97038d2468a7fe4319f2d058f96f2399bd78",
+          "bytes": 2237194,
+          "width": 1492,
+          "height": 1054
+        },
+        {
+          "file": "07.png",
+          "title": "07_用法与达人讲解",
+          "sha256": "f6f6a1b64ef0b5c41cde81857d10669ded41ca7624cc851a2cb9330be7e70034",
+          "bytes": 1951237,
+          "width": 1491,
+          "height": 1055
+        }
+      ]
+    }
+  ],
+  "production_environment": "Existing project outputs created in Codex",
+  "publication": "User-authorized product showcase",
+  "image_total": 37
+}

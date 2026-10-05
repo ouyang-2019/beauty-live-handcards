@@ -1,0 +1,26 @@
+{
+  "product_id": "sample-product",
+  "pages": [
+    {
+      "page_id": "01",
+      "file": "01_单页直播手卡.png",
+      "critical_text": [
+        {
+          "id": "brand-cn",
+          "expected": "示例品牌",
+          "source": "虚构字段示例；使用时替换为当前品牌原标"
+        },
+        {
+          "id": "name-title",
+          "expected": "示例保湿精华",
+          "source": "虚构字段示例；使用时替换为当前包装全名"
+        },
+        {
+          "id": "spec",
+          "expected": "30ml",
+          "source": "虚构规格；使用时替换并核实"
+        }
+      ]
+    }
+  ]
+}
