@@ -1,18 +1,80 @@
+<div align="center">
+
+<img src="assets/hero.png" alt="美妆直播手卡：把产品亮点，讲得清楚又好看；单页手卡、产品套图、组合讲解" width="100%">
+
 # 美妆直播手卡 · Beauty Live Handcards
 
-把产品资料变成主播能直接讲、顾客能快速读懂的单页手卡、功效套图和组合卡。
+**把产品资料变成主播能讲、顾客能懂的视觉内容。**
 
-[English](README.en.md) · [下载 v0.1.0 安装包](https://github.com/ouyang-2019/beauty-live-handcards/releases/tag/v0.1.0) · [安装说明](docs/installation.md) · [五套产品案例](examples/README.md)
+[![GitHub Stars](https://img.shields.io/github/stars/ouyang-2019/beauty-live-handcards?style=flat-square&color=b78760)](https://github.com/ouyang-2019/beauty-live-handcards/stargazers)
+[![公开预览 v0.1.0](https://img.shields.io/badge/Preview-v0.1.0-b78760?style=flat-square)](https://github.com/ouyang-2019/beauty-live-handcards/releases/tag/v0.1.0)
+[![技能许可 MIT](https://img.shields.io/badge/Skill_License-MIT-795548?style=flat-square)](LICENSE)
+[![WorkBuddy 安装包](https://img.shields.io/badge/WorkBuddy-Package-dc9b9b?style=flat-square)](docs/installation.md)
+[![5 套 · 37 张案例](https://img.shields.io/badge/Showcase-5_sets_%2F_37_images-c09066?style=flat-square)](#showcase)
+[![X @ouyangdashu](https://img.shields.io/badge/X-%40ouyangdashu-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/ouyangdashu)
 
-适用于美妆品牌、直播团队、电商运营和设计人员。围绕使用场景与明星原料组织卖点，用具体的摄影和3D动作解释产品，同时核对中文、包装与报告归属。
+[English](README.en.md) · [下载安装包](https://github.com/ouyang-2019/beauty-live-handcards/releases/tag/v0.1.0) · [安装说明](docs/installation.md) · [产品展廊](#showcase) · [联系欧阳](#contact)
 
-## 能做什么
+</div>
 
-- 单页直播手卡：包装主视觉、场景、一句话卖点、原料讲解、规格价格与用法。
-- 整套产品图：主视觉、功效3D、原料、检测报告与使用讲解，按资料和要求选择模块。
-- 组合手卡：讲清每个单品的作用和搭配顺序。
-- 已有图片改版：更新配方、报告和正文，复核后同步PNG、PDF与ZIP。
-- 推广表达：正文突出亮点，数字旁标注指标和必要条件；内部审核备注留在制作资料。
+适用于美妆品牌、直播团队、电商运营和设计人员。围绕使用场景与明星原料组织卖点，用摄影与3D画面解释产品，核对中文、包装与数据归属。
+
+## 一份资料，三类产出
+
+| 单页直播手卡 | 整套产品图 | 组合手卡 |
+|---|---|---|
+| 一页呈现场景、卖点、原料、规格价格与用法 | 按资料选择主视觉、功效3D、原料、报告与使用讲解 | 讲清单品分工、搭配顺序和组合使用场景 |
+
+支持已有图片改版：更新配方、报告和正文，复核后同步PNG、PDF与ZIP。推广正文突出产品亮点，数据旁保留指标与必要条件简注。
+
+<a id="showcase"></a>
+
+## ✦ 品牌产品 · 案例展廊
+
+**香莱可人 × 漾皑秀 · 5套产品 · 37张成品原图**
+
+精华、面霜、护手礼盒与面膜，展示不同产品的视觉和讲解方式。点击预览进入完整套图；需要了解产品或讨论合作，可[联系欧阳](#contact)。
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="examples/01-serum/README.md"><img src="examples/01-serum/02.png" alt="香莱可人·重组胶原蛋白次抛精华液 — 产品案例预览" width="420"></a>
+      <p><strong>香莱可人·重组胶原蛋白次抛精华液</strong></p>
+      <p>甘油与可溶性胶原的水润护理，次抛使用场景，配方原料与对应检测展示。</p>
+      <p><a href="examples/01-serum/README.md"><strong>查看完整 9 张套图 →</strong></a></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="examples/02-cream/README.md"><img src="examples/02-cream/02.png" alt="香莱可人·青春紧致淡纹精华霜 — 产品案例预览" width="420"></a>
+      <p><strong>香莱可人·青春紧致淡纹精华霜</strong></p>
+      <p>乳木果脂、羟丙基四氢吡喃三醇与神经酰胺NP的原料分工，柔润肤感与日常护理收尾。</p>
+      <p><a href="examples/02-cream/README.md"><strong>查看完整 7 张套图 →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="examples/03-hand-care-gift-set/README.md"><img src="examples/03-hand-care-gift-set/01.png" alt="漾皑秀·璀璨奢养玉肌护手礼盒 — 产品案例预览" width="420"></a>
+      <p><strong>漾皑秀·璀璨奢养玉肌护手礼盒</strong></p>
+      <p>四支一盒的护手搭配，把香型、原料和洗手后的护理场景连起来。</p>
+      <p><a href="examples/03-hand-care-gift-set/README.md"><strong>查看完整 7 张套图 →</strong></a></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="examples/04-blue-copper-mask/README.md"><img src="examples/04-blue-copper-mask/01.png" alt="漾皑秀·蓝铜肽雪肌舒缓水光面膜 — 产品案例预览" width="420"></a>
+      <p><strong>漾皑秀·蓝铜肽雪肌舒缓水光面膜</strong></p>
+      <p>冰蓝水光视觉，水润贴敷、舒缓与抗皱紧致护理主题，原料矩阵和对应报告展示。</p>
+      <p><a href="examples/04-blue-copper-mask/README.md"><strong>查看完整 7 张套图 →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%" colspan="2">
+      <a href="examples/05-black-diamond-mask/README.md"><img src="examples/05-black-diamond-mask/01.png" alt="漾皑秀·黑钻赋活光感驻颜面膜 — 产品案例预览" width="420"></a>
+      <p><strong>漾皑秀·黑钻赋活光感驻颜面膜</strong></p>
+      <p>黑金产品视觉，润泽贴敷体验与原料、用法的完整讲解。</p>
+      <p><a href="examples/05-black-diamond-mask/README.md"><strong>查看完整 7 张套图 →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+[浏览全部案例](examples/README.md) · [下载37张案例图](https://github.com/ouyang-2019/beauty-live-handcards/releases/download/v0.1.0/beauty-live-handcards-product-examples-0.1.0.zip)
 
 ## 快速开始
 
@@ -32,49 +94,38 @@
 
 更多请求见[提示词示例](docs/usage.md)。
 
-## 五套产品展示
+<a id="contact"></a>
 
-37张成品原图已公开，展示“香莱可人”和“漾皑秀”的不同产品视觉与讲解方式。
+## ♡ 联系作者 · 产品与内容合作
 
-### 香莱可人·重组胶原蛋白次抛精华液
+[![香莱可人与漾皑秀：产品交流、直播手卡、内容合作；联系欧阳，一起把产品讲得更好](assets/collaboration.png)](https://x.com/ouyangdashu)
 
-甘油与可溶性胶原的水润护理，次抛使用场景，配方原料与对应检测展示。
+我是**欧阳**，欢迎交流美妆产品、直播手卡与AI内容制作。
 
-[查看完整 9 张案例](examples/01-serum/README.md)
+想了解本仓库展示的**香莱可人、漾皑秀产品**，或讨论品牌内容与直播合作，欢迎通过微信联系；也可以在X关注我，扫码关注微信公众号。
 
-![香莱可人·重组胶原蛋白次抛精华液](examples/01-serum/01.png)
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <p><strong>微信 · 欧阳</strong></p>
+      <a href="assets/contact/wechat.jpg"><img src="assets/contact/wechat.jpg" alt="欧阳个人微信二维码，扫码添加好友" width="280"></a>
+      <p>产品咨询与合作交流<br><a href="assets/contact/wechat.jpg">打开原图扫码</a></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><strong>微信公众号</strong></p>
+      <a href="assets/contact/wechat-official-account.jpg"><img src="assets/contact/wechat-official-account.jpg" alt="作者提供的微信公众号二维码，扫码关注" width="220"></a>
+      <p>扫码关注公众号<br><a href="assets/contact/wechat-official-account.jpg">打开原图扫码</a></p>
+    </td>
+  </tr>
+</table>
 
-### 香莱可人·青春紧致淡纹精华霜
+<div align="center">
 
-乳木果脂、羟丙基四氢吡喃三醇与神经酰胺NP的原料分工，柔润肤感与日常护理收尾。
+[![在 X 关注 @ouyangdashu](https://img.shields.io/badge/Follow_on_X-%40ouyangdashu-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ouyangdashu)
 
-[查看完整 7 张案例](examples/02-cream/README.md)
+**[访问我的X主页 →](https://x.com/ouyangdashu)**
 
-![香莱可人·青春紧致淡纹精华霜](examples/02-cream/01.png)
-
-### 漾皑秀·璀璨奢养玉肌护手礼盒
-
-四支一盒的护手搭配，把香型、原料和洗手后的护理场景连起来。
-
-[查看完整 7 张案例](examples/03-hand-care-gift-set/README.md)
-
-![漾皑秀·璀璨奢养玉肌护手礼盒](examples/03-hand-care-gift-set/01.png)
-
-### 漾皑秀·蓝铜肽雪肌舒缓水光面膜
-
-冰蓝水光视觉，水润贴敷、舒缓与抗皱紧致护理主题，原料矩阵和对应报告展示。
-
-[查看完整 7 张案例](examples/04-blue-copper-mask/README.md)
-
-![漾皑秀·蓝铜肽雪肌舒缓水光面膜](examples/04-blue-copper-mask/01.png)
-
-### 漾皑秀·黑钻赋活光感驻颜面膜
-
-黑金产品视觉，润泽贴敷体验与原料、用法的完整讲解。
-
-[查看完整 7 张案例](examples/05-black-diamond-mask/README.md)
-
-![漾皑秀·黑钻赋活光感驻颜面膜](examples/05-black-diamond-mask/01.png)
+</div>
 
 ## 运行与验证状态
 
@@ -91,8 +142,10 @@
 ## 许可
 
 技能规则、脚本、模板和使用文档采用[MIT](LICENSE)许可，任何人可使用和改进。
-产品案例图片与品牌标识按[案例图片使用范围](examples/LICENSE.md)展示。完整范围见[NOTICE](NOTICE.md)。
+产品案例图片、品牌标识和联系方式二维码按[NOTICE](NOTICE.md)规定使用；产品案例范围见[案例图片使用范围](examples/LICENSE.md)。
 
-## 发布结构参考
+## 发布与展示参考
 
-参考[Anthropic Skills](https://github.com/anthropics/skills)的独立skill目录和按需参考资料、[Superpowers](https://github.com/obra/superpowers)的分宿主安装说明，以及[WorkBuddy Skill Atlas](https://github.com/sandbaseai/workbuddy-skill)的版本ZIP和校验文件方式。项目遵循[Agent Skills结构](https://agentskills.io/specification)，WorkBuddy包按其[官方字段要求](https://open.workbuddy.cn/en/docs/skill)构建。
+发布结构参考[Anthropic Skills](https://github.com/anthropics/skills)、[Superpowers](https://github.com/obra/superpowers)和[WorkBuddy Skill Atlas](https://github.com/sandbaseai/workbuddy-skill)。页首徽章与推广图片的展示方式参考[CCG Workflow](https://github.com/fengshao1227/ccg-workflow)，本项目横幅为原创制作。
+
+项目遵循[Agent Skills结构](https://agentskills.io/specification)，WorkBuddy包按其[官方字段要求](https://open.workbuddy.cn/en/docs/skill)构建。
