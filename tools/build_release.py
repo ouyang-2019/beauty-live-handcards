@@ -29,7 +29,10 @@ def entries(directory, prefix=""):
         if path.is_file() and "__pycache__" not in path.parts:
             if path.is_symlink():
                 raise ValueError("Symlink excluded: " + str(path))
-            yield prefix + path.relative_to(directory).as_posix(), path.read_bytes()
+            content = path.read_bytes()
+            if path.suffix.lower() in {".md", ".py", ".json", ".txt"} or path.name == "LICENSE":
+                content = path.read_text(encoding="utf-8-sig").encode("utf-8")
+            yield prefix + path.relative_to(directory).as_posix(), content
 
 
 def archive(path, files):
